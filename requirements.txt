@@ -1,0 +1,10 @@
+pandas
+PIL
+datetime
+yfinance
+streamlit
+yahoo_fin
+annotated_text
+plotly
+numpy
+pandas_datareader
